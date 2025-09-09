@@ -1,6 +1,5 @@
 <!-- Centered Hero -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME" width="160" style="border-radius:50%" alt="Okor Alex avatar" />
   <h1>Hi, I'm Okor Alex</h1>
   <p><i>Software Engineer | Frontend & Backend (Laravel, React/React Native)</i></p>
 
