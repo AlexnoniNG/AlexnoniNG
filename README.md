@@ -1,7 +1,7 @@
 <!-- Centered Hero -->
 <div align="center">
   <h1>Hi, I'm Okor Alex</h1>
-  <p><i>Software Engineer | Frontend & Backend (Laravel, React/React Native)</i></p>
+  <p><i>Software Engineer | Frontend & Backend (Laravel, Django, React/React Native)</i></p>
 
   <!-- Quick contact badges -->
   <a href="mailto:alexokor91@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Okor%20Alex-red?style=for-the-badge&logo=gmail"></a>
@@ -11,7 +11,7 @@
 
 ---
 
-I am a highly motivated, results-driven developer focused on building delightful, fast, and reliable products. I work across **React/React Native**, **TypeScript/JavaScript**, **TailwindCSS**, and **Laravel REST APIs**, collaborating closely with backend and mobile teams to ship production-ready features.
+I am a highly motivated, results-driven developer focused on building delightful, fast, and reliable products. I work across **React/React Native**, **TypeScript/JavaScript**, **TailwindCSS**, **Laravel REST APIs**, and **Django** collaborating closely with backend and mobile teams to ship production-ready features.
 
 - 🛠️ Currently working on: Laravel + React/TS Project
 - 🔁 Motto: **“If You Can Think, You Can Create!👊”**
@@ -21,6 +21,7 @@ I am a highly motivated, results-driven developer focused on building delightful
 ### 1.0.1 Top Technologies
 <p>
   <img src="https://img.shields.io/badge/LARAVEL-20232a?logo=laravel&logoColor=red&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DJANGO-20232a?logo=django&logoColor=red&style=for-the-badge" />
   <img src="https://img.shields.io/badge/REACT-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
