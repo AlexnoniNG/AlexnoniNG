@@ -25,7 +25,7 @@ I am a highly motivated, results-driven developer focused on building delightful
   <img src="https://img.shields.io/badge/REACT-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GITHUB-1572B6?logo=github3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GIT-1572B6?logo=git&logoColor=red&style=for-the-badge" />
 </p>
 
 ### 1.1 Skills
