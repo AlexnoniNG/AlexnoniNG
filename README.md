@@ -37,29 +37,19 @@ I am a highly motivated, results-driven developer focused on building delightful
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="32" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="32" alt="Tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="32" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git"/>
+
 </p>
 
 ### 1.1.1 Bizness
-- 📄 <a href="https://YOUR_RESUME_LINK">My Resume/CV</a>  
-- ✉️ <a href="mailto:YOUR_PUBLIC_EMAIL">YOUR_PUBLIC_EMAIL</a>  
-- 🌐 <a href="https://YOUR_PORTFOLIO_URL">YOUR_PORTFOLIO_URL</a>  
-- 🔗 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a>
+- 📄 <a href="https://alexokor.com/storage/main/resume/cv.pdf">My Resume/CV</a>  
+- ✉️ <a href="mailto:alexokor91@gamil.com">Alexokor91@gmail.com</a>  
+- 🌐 <a href="https://alexokor.com">MY PORTFOLIO</a>  
+- 🔗 <a href="https://www.linkedin.com/in/alex-okor-203373246">LinkedIn</a>
 
 ---
 
-### GitHub Stats
-<p>
-  <!-- These cards are popular and safe; replace username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" height="150" />
-</p>
-
-<!-- Optional: Top languages -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" /> -->
-
-<!-- Visitor counter (optional) -->
-<!-- <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square"> -->
+### END
