@@ -4,7 +4,7 @@
   <p><i>Software Engineer | Frontend & Backend (Laravel, React/React Native)</i></p>
 
   <!-- Quick contact badges -->
-  <a href="mailto:alexokor91@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Your%20Name-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:alexokor91@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Okor%20Alex-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/alex-okor-203373246"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://alexokor.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"></a>
 </div>
