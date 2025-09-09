@@ -13,13 +13,14 @@
 
 I am a highly motivated, results-driven developer focused on building delightful, fast, and reliable products. I work across **React/React Native**, **TypeScript/JavaScript**, **TailwindCSS**, and **Laravel REST APIs**, collaborating closely with backend and mobile teams to ship production-ready features.
 
-- 🛠️ Currently working on: **El Patron Hub** (Laravel + React/TS)
-- 🔁 Motto: **“No Gree for Defeat — stand strong, stand tall.”**
-- 💬 Reach me: **YOUR_PUBLIC_EMAIL**
+- 🛠️ Currently working on: Laravel + React/TS Project
+- 🔁 Motto: **“If You Can Think, You Can Create!👊”**
+- 💬 Reach me: **Alexokor91@gmail.com | 08129836236**
 - 💡 Most used line of code: `console.log('Hello world')`
 
 ### 1.0.1 Top Technologies
 <p>
+  <img src="https://img.shields.io/badge/LARAVEL-20232a?logo=laravel&logoColor=red&style=for-the-badge" />
   <img src="https://img.shields.io/badge/REACT-20232a?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
